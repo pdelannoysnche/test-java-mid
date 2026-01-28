@@ -1,24 +1,3 @@
-Claro, vamos a poner orden para que mañana tengas todo bajo control. Aquí tienes la hoja de ruta definitiva para montar el reto en GitHub Classroom y las instrucciones que debes enviarle a ella.
-
-1. Configuración de la Tarea (Para ti)
-Sigue estos pasos rápidos en GitHub Classroom:
-
-Crea la Tarea: Dale a "Create Assignment".
-
-Nombre: Java-Mid-Level-Challenge.
-
-Deadline: Pon la hora de tu reunión de mañana.
-
-Autograding: Como no eres técnico, no te vuelvas loco con los tests. Añade un "Run Command" con lo siguiente:
-
-Setup command: (vacio)
-
-Run command: javac *.java
-
-Esto al menos te asegura que el código "arranca" y no tiene errores de escritura.
-
-2. Instrucciones para la Desarrolladora (Copia y Pega)
-Envía esto por correo o por la plataforma. Es un reto diseñado para que un "Mid-level" demuestre solidez:
 
 🚀 Java Technical Challenge: Multi-Source Data Processor
 Objetivo: Implementar un módulo de procesamiento de datos que combine múltiples fuentes de forma eficiente.
